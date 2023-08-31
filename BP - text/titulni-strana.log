@@ -1,0 +1,257 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.8.31)  31 AUG 2023 09:31
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./titulni-strana.tex
+(titulni-strana.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30>
+
+! LaTeX Error: Environment titulnistrana undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{titulnistrana}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.8 \PlaceText
+              {150mm}{15mm}{\fontsize{12}{0} \bf\sffamily UNIVERZITA PALACKÉHO}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \PlaceText{1
+                50mm}{15mm}{\fontsize{12}{0} \bf\sffamily UNIVERZITA PALACKÉHO}
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+! Undefined control sequence.
+l.8 \PlaceText{150mm}{15mm}{\fontsize{12}{0} \bf
+                                                \sffamily UNIVERZITA PALACKÉHO}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--9
+[]
+ []
+
+
+Overfull \hbox (23.34pt too wide) in paragraph at lines 8--9
+\TU/lmss/m/n/12 UNI-
+ []
+
+
+Overfull \hbox (47.48401pt too wide) in paragraph at lines 8--9
+\TU/lmss/m/n/12 VERZITA
+ []
+
+
+Overfull \hbox (47.556pt too wide) in paragraph at lines 8--9
+\TU/lmss/m/n/12 PALACK-
+ []
+
+
+Overfull \hbox (23.892pt too wide) in paragraph at lines 8--9
+\TU/lmss/m/n/12 ÉHO 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ~
+      \\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+! Undefined control sequence.
+l.18 {\fontsize{24}{0}\bf
+                         \sffamily \subtitle\\}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.18 {\fontsize{24}{0}\bf\sffamily \subtitle
+                                            \\}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 {\fontsize{24}{0}\bf\sffamily \subtitle\\
+                                              }
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.20 {\fontsize{12}{0}\bf
+                         \sffamily \@author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 22.
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 11--23
+[] 
+ []
+
+
+Overfull \hbox (128.0374pt too wide) in paragraph at lines 11--23
+| []
+ []
+
+
+Overfull \hbox (5324.74998pt too wide) in paragraph at lines 11--23
+[]$ 
+ []
+
+! Undefined control sequence.
+l.26 \AddToShipoutPictureBG
+                           *{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \AddToShipoutPictureBG*
+                            {%
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no * in font nullfont!
+! Undefined control sequence.
+l.27     \AtPageLowerLeft
+                         {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \color 
+                  {blue}\line (1,0){\dimexpr \paperwidth -20mm}
+l.28 ...blue}\line(1,0){\dimexpr\paperwidth-20mm}}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+
+! LaTeX Error: Bad \line or \vector argument.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 ...blue}\line(1,0){\dimexpr\paperwidth-20mm}}
+                                                  %
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 26--29
+[][] 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{titulnistrana}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \end{titulnistrana}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> ./titulni-strana.tex
+                        
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 28 strings out of 411463
+ 573 string characters out of 5822270
+ 1842290 words of memory out of 5000000
+ 20359 multiletter control sequences out of 15000+600000
+ 512303 words of font info for 34 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 20i,3n,18p,137b,205s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.

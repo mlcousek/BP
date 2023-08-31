@@ -1,0 +1,38 @@
+\makeatletter
+\begin{titlepage}
+
+
+\vspace*{-4.6\baselineskip}
+
+\par\vspace*{2.5\baselineskip}
+
+\PlaceText{150mm}{15mm}{\fontsize{12}{0} \bf\sffamily UNIVERZITA PALACKÉHO}
+
+
+~\\
+\hspace*{-1cm}\begin{minipage}[b]{55mm}
+~\\
+\end{minipage}
+\begin{minipage}{0.65\textwidth}
+\begin{flushleft}
+
+{\fontsize{24}{0}\bf\sffamily \subtitle\\}
+\vspace{1cm}
+{\fontsize{12}{0}\bf\sffamily \@author}
+\end{flushleft}
+\end{minipage}
+
+
+\thispagestyle{empty}
+\AddToShipoutPictureBG*{%
+    \AtPageLowerLeft{%
+        \put(10mm,10mm){\color{blue}\line(1,0){\dimexpr\paperwidth-20mm}}%
+
+    }%
+}
+
+\end{titlepage}
+\makeatother
+
+
+

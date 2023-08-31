@@ -1,0 +1,146 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.4) (preloaded format=xelatex 2023.8.31)  31 AUG 2023 10:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./zadni-strana.tex
+(zadni-strana.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30>
+! Undefined control sequence.
+l.4 \AddToShipoutPictureBG
+                          *{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \AddToShipoutPictureBG*
+                           {%
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no * in font nullfont!
+! Undefined control sequence.
+l.5     \AtPageLowerLeft
+                        {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \color 
+                  {blue}\line (1,0){\dimexpr \paperwidth -20mm}
+l.6 ...{blue}\line(1,0){\dimexpr\paperwidth-20mm}}
+                                                  %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+
+! LaTeX Error: Bad \line or \vector argument.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...{blue}\line(1,0){\dimexpr\paperwidth-20mm}}
+                                                  %
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--7
+[][] 
+ []
+
+! Undefined control sequence.
+l.10 \PlaceText
+               {10mm}{282mm}{\color{blue}\fontsize{8}{0}\sffamily jdeme na to }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \PlaceText{1
+                 0mm}{282mm}{\color{blue}\fontsize{8}{0}\sffamily jdeme na to }
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+! Undefined control sequence.
+l.10 \PlaceText{10mm}{282mm}{\color
+                                   {blue}\fontsize{8}{0}\sffamily jdeme na to }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (40.96pt too wide) in paragraph at lines 10--11
+[]\TU/lmss/m/n/8 jdeme
+ []
+
+
+Overfull \hbox (8.472pt too wide) in paragraph at lines 10--11
+\TU/lmss/m/n/8 na
+ []
+
+
+Overfull \hbox (7.32pt too wide) in paragraph at lines 10--11
+\TU/lmss/m/n/8 to
+ []
+
+)
+! Emergency stop.
+<*> ./zadni-strana.tex
+                      
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 22 strings out of 411463
+ 430 string characters out of 5822270
+ 1842290 words of memory out of 5000000
+ 20355 multiletter control sequences out of 15000+600000
+ 512295 words of font info for 33 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 12i,1n,12p,134b,79s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.
